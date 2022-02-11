@@ -11,5 +11,5 @@ You can play the game by running the `main-function` in [Game.java](src/de/uniwu
 Below you can see a gameplay video.
 <br><br>
 <p align="center">
-  <img src="https://mathworld.wolfram.com/images/gifs/connect4.gif" width=400> 
+  <img src="https://mathworld.wolfram.com/images/gifs/connect4.gif" width=300> 
 </p>
