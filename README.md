@@ -13,3 +13,10 @@ Below you can see a gameplay video.
 <p align="center">
   <img src="https://mathworld.wolfram.com/images/gifs/connect4.gif" width=300> 
 </p>
+<br><br>
+In my next step, I would like to develop both a neural network to play against, 
+and a heuristic search algorithm using pruning and the minimax function for optimal results.
+<br><br>
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*NKzsRiAxa_oiikgbLyLCyw.png" width=300> 
+</p>
