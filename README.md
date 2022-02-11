@@ -18,5 +18,5 @@ In my next step, I would like to develop both a neural network to play against,
 and a heuristic search algorithm using pruning and the minimax function for optimal results.
 <br><br>
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*NKzsRiAxa_oiikgbLyLCyw.png" width=300> 
+  <img src="https://miro.medium.com/max/1400/1*NKzsRiAxa_oiikgbLyLCyw.png" width=500> 
 </p>
